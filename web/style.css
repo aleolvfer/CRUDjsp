@@ -1,0 +1,30 @@
+*{
+    font-family: Helvetica, Calibri, sans-serif;
+}
+
+.id{
+    width: 225px;
+    background: white;
+    color: navy;
+    transition: 2s;
+    border: solid white;
+    border-radius: 12px;
+    text-decoration: none;
+}
+.id:hover{
+    
+    color: white;
+    background: navy;
+    border-radius: 12px;
+    text-decoration: none;
+    
+    
+}
+
+.tabela{
+    border-bottom-color: navy;
+    border:solid navy 1px;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+}
